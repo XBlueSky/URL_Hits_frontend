@@ -1,0 +1,23 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-router": "^3.0.2",
+    "react-scripts": "0.9.5",
+    "recharts": "1.1.0",
+    "semantic-ui-react": "0.82.1",
+    "react-calendar": "2.16.1",
+    "react-viewport-slider": "1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "PORT=8001 react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:3001"
+}
