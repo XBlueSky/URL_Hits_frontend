@@ -10,7 +10,8 @@
     "recharts": "1.1.0",
     "semantic-ui-react": "0.82.1",
     "react-calendar": "2.16.1",
-    "react-viewport-slider": "1.0.0"
+    "react-viewport-slider": "1.0.0",
+    "react-router-dom": "4.3.1"
   },
   "devDependencies": {},
   "scripts": {
