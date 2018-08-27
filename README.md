@@ -1,8 +1,8 @@
 # URL_Hits_frontend
 
-> It is the website that show the ranking of websites which most people visit and other small interesting functions.
+It is the website that show the ranking of websites which most people visit and other small interesting functions.
 
-> This website implemented by Reactjs is created in 2018.July.
+This website implemented by Reactjs is created in 2018.July.
 
 - [Getting Started](#getting_started) 
 - [Structure](#structure)
