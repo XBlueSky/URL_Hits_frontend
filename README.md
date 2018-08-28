@@ -28,10 +28,10 @@ $ npm start
 ## Structure
 
     URL_Hits_frontend/
-    ├── public/             # stastic html file
-    ├── src/                # app scripts and component
-    ├── node_modules/       # other component we use
-    └── package.json        # app npm dependencies
+        ├── public/             # stastic html file
+        ├── src/                # app scripts and component
+        ├── node_modules/       # other component we use
+        └── package.json        # app npm dependencies
 
 
 ## Component
